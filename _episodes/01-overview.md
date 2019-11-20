@@ -15,9 +15,9 @@ keypoints:
 ## The Introduction Module will cover the following topics
 
 ### Overview of reproducibility topics
-* Episode 0: Reproducibility is a problem
-* Episode 1: Many issues affect reproducibility
-* Episode 2: Next generation re-executable publications
+* Lesson 1: Reproducibility is a problem
+* Lesson 2: Many issues affect reproducibility
+* Lesson 3: Next generation re-executable publications
 
 ### Introduce the ReproNim Training Modules
 
